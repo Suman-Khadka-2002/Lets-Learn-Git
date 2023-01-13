@@ -1,3 +1,3 @@
-a = 1
-b = 3
-print('the sum is ', a+b)
+num_a = 1
+num_b = 3
+print('Sum = ', num_a + num_b)
